@@ -560,7 +560,7 @@ enum {
     eQMbasisSTO3G, eQMbasisSTO3G2, eQMbasis321G,
     eQMbasis321Gp, eQMbasis321dGp, eQMbasis621G,
     eQMbasis631G, eQMbasis631Gp, eQMbasis631dGp,
-    eQMbasis6311G, eQMbasisNR
+    eQMbasis6311G, eQMbasis6311dGpp, eQMbasisNR
 };
 //! Name for QMMM basis function
 extern const char *eQMbasis_names[eQMbasisNR+1];

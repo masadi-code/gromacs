@@ -226,7 +226,7 @@ const char *eQMbasis_names[eQMbasisNR+1] = {
     "STO3G", "STO-3G", "3-21G",
     "3-21G*", "3-21+G*", "6-21G",
     "6-31G", "6-31G*", "6-31+G*",
-    "6-311G", nullptr
+    "6-311G", "6-311+G**", nullptr
 };
 
 const char *eQMMMscheme_names[eQMMMschemeNR+1] = {
